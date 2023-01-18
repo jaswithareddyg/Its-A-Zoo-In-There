@@ -11,7 +11,7 @@ https://stackoverflow.com
 
 # Notes
 
-1. The audio doesn't work as it shows a werid error. 
+1. The audio doesn't work as it shows a weird error. 
     ```
     2023-01-17 22:28:43.420866-0600 It's a Zoo in There[33761:8055360] [plugin] AddInstanceForFactory: No factory registered for id <CFUUID 0x6000017fc1a0> F8BB1C28-BAE8-11D6-9C31-00039315CD46
     ```
